@@ -26,5 +26,5 @@ jobs:
           push: true
           # Make sure to replace with your own namespace and repository
           tags: |
-            tangdocker11/learn-ci-cd:latest
+            tanngodocker11/learn-ci-cd:latest
           platforms: linux/amd64
